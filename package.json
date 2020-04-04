@@ -1,9 +1,12 @@
 {
   "name": "hexo-memorial-day",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Turn your hexo site into grey on the memorial day.",
   "main": "index.js",
-  "repository": "fluid-dev/hexo-memorial-day",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluid-dev/hexo-memorial-day.git"
+  },
   "bugs": {
     "url": "https://github.com/fluid-dev/hexo-memorial-day/issues"
   },
@@ -14,6 +17,9 @@
     "day",
     "grey"
   ],
-  "author": "zkqiang (https://github.com/zkqiang)",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "zkqiang <zkqiang@126.com> (https://github.com/zkqiang)",
   "license": "MIT"
 }
