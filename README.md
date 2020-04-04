@@ -1,11 +1,13 @@
 # hexo-memorial-day
 
-Grey your hexo site on the memorial day.
+Grey your hexo site on the memorial day
+
+哀悼日专用 Hexo 插件，开启后全站灰色
 
 ## Installation
 
 ```shell
-$ npm install hexo-memorial-day --save
+$ npm i hexo-memorial-day --save
 ```
 
 ## Config
@@ -19,3 +21,7 @@ memorial_day:
   # Specified date will be greyed
   day: 2020-04-04
 ```
+
+## Preview
+
+<https://zkqiang.cn>
