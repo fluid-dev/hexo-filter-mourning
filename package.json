@@ -1,6 +1,6 @@
 {
   "name": "hexo-memorial-day",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turn your hexo site into grey on the memorial day.",
   "main": "index.js",
   "repository": "fluid-dev/hexo-memorial-day",
