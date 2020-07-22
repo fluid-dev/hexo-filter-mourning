@@ -24,4 +24,4 @@ memorial_day:
 
 ## Preview
 
-<https://zkqiang.cn>
+![](https://static.zkqiang.cn/images/20200722192658.png-slim)
