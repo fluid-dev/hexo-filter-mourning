@@ -18,10 +18,10 @@ In your site's `_config.yml`:
 memorial_day:
   # Better to close it when it is not used
   enable: true
-  # Specified date will be greyed
-  day: 2020-04-04
+  # Specified date will be greyed, you can set yyyy-MM-dd or MM-dd
+  day: 04-04
 ```
 
-## Preview
+## Screenshot
 
-![](https://static.zkqiang.cn/images/20200722192658.png-slim)
+![Screenshot](https://github.com/fluid-dev/static/blob/master/hexo-theme-fluid/screenshots/memorial-day.png)
