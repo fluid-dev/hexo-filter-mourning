@@ -1,7 +1,7 @@
 {
   "name": "hexo-memorial-day",
-  "version": "0.2.1",
-  "description": "Turn your hexo site into grey on the memorial day.",
+  "version": "0.3.0",
+  "description": "Grey your hexo site on the memorial day.",
   "main": "index.js",
   "repository": {
     "type": "git",
