@@ -16,10 +16,13 @@ In your site's `_config.yml`:
 
 ```yaml
 memorial_day:
-  # Better to close it when it is not used
+  # It's recommended to disable it when not in use
   enable: true
-  # Specified date will be greyed, you can set yyyy-MM-dd or MM-dd
-  day: 04-04
+  # Specify the date(s) to be greyed out. You can set dates in the format yyyy-MM-dd or MM-dd
+  day:
+    - 05-12
+    - 07-07
+    - 12-13
 ```
 
 ## Screenshot
