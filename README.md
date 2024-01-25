@@ -15,7 +15,7 @@ $ npm i hexo-filter-mourning --save
 In your site's `_config.yml`:
 
 ```yaml
-memorial_day:
+mourning:
   # It's recommended to disable it when not in use
   enable: true
   # Specify the date(s) to be greyed out. You can set dates in the format yyyy-MM-dd or MM-dd

@@ -1,20 +1,19 @@
 {
-  "name": "hexo-memorial-day",
-  "version": "0.3.0",
-  "description": "Grey your hexo site on the memorial day.",
+  "name": "hexo-filter-mourning",
+  "version": "1.0.0",
+  "description": "Grey your hexo site on the mourning day",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fluid-dev/hexo-memorial-day.git"
+    "url": "git+https://github.com/fluid-dev/hexo-filter-mourning.git"
   },
   "bugs": {
-    "url": "https://github.com/fluid-dev/hexo-memorial-day/issues"
+    "url": "https://github.com/fluid-dev/hexo-filter-mourning/issues"
   },
-  "homepage": "https://github.com/fluid-dev/hexo-memorial-day",
+  "homepage": "https://github.com/fluid-dev/hexo-filter-mourning",
   "keywords": [
     "hexo",
-    "memorial",
-    "day",
+    "plugin",
     "grey"
   ],
   "directories": {
