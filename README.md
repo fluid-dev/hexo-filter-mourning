@@ -1,6 +1,6 @@
 # hexo-filter-mourning
 
-Grey your hexo site on the mourning day
+Grey your hexo site on the day of mourning
 
 哀悼日专用 Hexo 插件，开启后全站灰色
 
@@ -22,7 +22,7 @@ mourning:
   day:
     - 04-04
     - 05-12
-    - 09-18
+    - 12-13
 ```
 
 ## Screenshot

@@ -1,7 +1,7 @@
 {
   "name": "hexo-filter-mourning",
   "version": "1.0.0",
-  "description": "Grey your hexo site on the mourning day",
+  "description": "Grey your hexo site on the day of mourning",
   "main": "index.js",
   "repository": {
     "type": "git",
